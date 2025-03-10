@@ -1,4 +1,4 @@
-##INET3101 LAB 2 Memory and Structures
+# INET3101 LAB 2 Memory and Structures
 
 
 This program is a  inventory tracker in C that helps user store information about parts like their number, name, size, and cost.
